@@ -6,12 +6,12 @@ In this workshop we'll learn how to build cloud-enabled applications with GraphQ
 
 ### Topics we'll be covering:
 
-- [Authentication](https://github.com/dabit3/aws-amplify-workshop-react#adding-authentication)
-- [GraphQL API with AWS AppSync](https://github.com/dabit3/aws-amplify-workshop-react#adding-a-graphql-api)
-- [Adding Authorization to the GraphQL API](https://github.com/dabit3/aws-amplify-workshop-react#adding-authorization-to-the-graphql-api)
-- [Deploying via the Amplify Console](https://github.com/dabit3/aws-amplify-workshop-react#deploying-via-the-amplify-console)
-- [React Native](https://github.com/dabit3/aws-amplify-workshop-react#react-native)
-- [Removing / Deleting Services](https://github.com/dabit3/aws-amplify-workshop-react#removing-services)
+- [Authentication](https://github.com/dabit3/day-zero-workshop#adding-authentication)
+- [GraphQL API with AWS AppSync](https://github.com/dabit3/day-zero-workshop#adding-a-graphql-api)
+- [Adding Authorization to the GraphQL API](https://github.com/dabit3/day-zero-workshop#adding-authorization-to-the-graphql-api)
+- [Deploying via the Amplify Console](https://github.com/dabit3/day-zero-workshop#deploying-via-the-amplify-console)
+- [React Native](https://github.com/dabit3/day-zero-workshop#react-native)
+- [Removing / Deleting Services](https://github.com/dabit3/day-zero-workshop#removing-services)
 
 ## Getting Started - Creating the React Application
 
