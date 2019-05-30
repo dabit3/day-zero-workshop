@@ -181,7 +181,7 @@ export default App
 
 ### Custom authentication strategies
 
-> For a full example of a custom authentication flow as well as OAuth with Facebook & Google Signin check out ]this repo](https://github.com/dabit3/amplify-auth-demo) and a live example [here](https://www.amplifyauth.dev/).
+> For a full example of a custom authentication flow as well as OAuth with Facebook & Google Signin check out [this repo](https://github.com/dabit3/amplify-auth-demo) and a live example [here](https://www.amplifyauth.dev/).
 
 The `withAuthenticator` component is a really easy way to get up and running with authentication, but in a real-world application we probably want more control over how our form looks & functions.
 
